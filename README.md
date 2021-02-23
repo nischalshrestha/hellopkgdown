@@ -11,7 +11,7 @@ This is a personal package of mine to demo a pkgdown site.
 The development version of `hellopkgdown` can be installed from GitHub with:
 
 ```r
-remotes::install_github("nischalshrestha/hellopkgdown")
+remotes::install_github("nischalshrestha/hellopkgdown@main")
 ```
 
 ## Demo
