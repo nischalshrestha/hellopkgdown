@@ -1,0 +1,13 @@
+Package: hellopkgdown
+Title: Tests creation and maintenance of a package using pkgdown site
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nischal",
+           family = "Shrestha",
+           role = c("aut", "cre"),
+           email = "nsrocker92@gmail.com")
+Description: This is a package used to explore pkgdown.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
