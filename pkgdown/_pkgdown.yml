@@ -1,0 +1,5 @@
+destination: docs
+repo:
+  url:
+    home: https://github.com/nischalshrestha/hellopkgdown
+    source: https://github.com/nischalshrestha/hellopkgdown
